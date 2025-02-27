@@ -1,4 +1,4 @@
-# 1. Record decision
+# Decision No.1 Decision Logging
 
 Date: 2025-02-27
 
