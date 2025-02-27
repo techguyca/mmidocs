@@ -1,12 +1,12 @@
 
 # Decision Log Entries
 
-| Decision Number | Decision Date | Decision | Description | Made By | Decision Record or Additional Details|
+| Decision Number | Decision Date | Decision | Description | Made By | Decision Record, RFC, or Additional Details|
 |-----------------|---------------|----------|-------------|---------|--------------------------------------|
 | # | YYYY-MM-DD | A brief summary of the decision made | A summary or description of why the decision was made | Name or team | Link to the work item or additional documentation |
 
 ### Example Entry
-| Decision Number | Decision Date | Decision | Description | Made By | Decision Record or Additional Details|
+| Decision Number | Decision Date | Decision | Description | Made By | Decision Record, RFC, or Additional Details|
 |-----------------|---------------|----------|-------------|---------|--------------------------------------|
 |1| 2025-02-27 | Decision to use a decision log | Allows for historical context and details for decisions | Dev team | [0001](0001-Use-decision-logging.md) |
 ## How to Use
