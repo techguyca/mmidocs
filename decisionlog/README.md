@@ -8,7 +8,8 @@
 ### Example Entry
 | Decision Date | Decision | Alternatives Considered | Reasoning | Made By | Work Required |
 |---------------|----------|-------------------------|-----------|---------|---------------|
-| 2025-02-26    | Use Kubernetes for container orchestration | Docker Swarm, Mesos | Kubernetes offers better scalability and community support | DevOps Team | Update deployment scripts |
+|1| 2025-02-27 | Decision to use a decision log |  |  | Dev team | [0001](0001-Use-decision-logging.md) |
+
 ## How to Use
 
 1. **Decision Date**: The date the decision was made.
