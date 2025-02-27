@@ -8,7 +8,7 @@
 ### Example Entry
 | Decision Number | Decision Date | Decision | Description | Made By | Decision Record or Additional Details|
 |-----------------|---------------|----------|-------------|---------|--------------------------------------|
-|1| 2025-02-27 | Decision to use a decision log | Allows for historical context and details for decisions |  | Dev team | [0001](0001-Use-decision-logging.md) |
+|1| 2025-02-27 | Decision to use a decision log | Allows for historical context and details for decisions | Dev team | [0001](0001-Use-decision-logging.md) |
 ## How to Use
 
 1. **Decision Number**
