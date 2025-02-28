@@ -1,4 +1,9 @@
+# Decision Logging.
+There are 3 components: Decision Log, Decision Record and Request For Comment "RFC".
 
+The Decision Log is an "index" for the Decisions, all decisions made should have an entry here.
+For larger impact or Architectural decisions please create an RFC, with a simple entry here for reference.
+For smaller decisions, code related, or cases where an RFC is not applicable, please create a Decision Record in the 'decisionrecords' folder and link in the DL.
 # Decision Log Entries
 
 | Decision Number | Decision Date | Decision | Description | Made By | Decision Record, RFC, or Additional Details|
